@@ -27,7 +27,7 @@ The web terminal can communicate with hardware only after a hardware bridge is i
 
 You can use a USB connection to the device for debugging APIs.
 
-[Expo Example Demo](https://github.com/OneKeyHQ/hardware-js-sdk/tree/onekey/packages/connect-examples)
+[Expo Example Demo](https://hardware-example.onekeytest.com/expo-playground/)
 
 
 
